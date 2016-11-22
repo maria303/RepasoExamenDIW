@@ -6,6 +6,7 @@
 .responsive-navbar__button {
   float: right;
   color: #777;
+  background-color: #F8F8F8;
   border: 1px solid #E7E7E7;
   font-size: 200%; }
 

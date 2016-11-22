@@ -12,6 +12,7 @@ $padding: 10px;
 .responsive-navbar__button{
     float: right;
     color: $color;
+    background-color: $background-color;
     border: 1px solid $border-color;
     font-size: 200%;
 }
@@ -28,6 +29,7 @@ $padding: 10px;
     background-color: $background-color;
     padding: $padding;
     border: 1px solid $border-color;
+    //*no poner float, ponerlo en los ul
 }
 
 .responsive-navbar__title{
